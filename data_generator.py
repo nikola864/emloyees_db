@@ -27,7 +27,7 @@ positions_hierarchy = {  # Переименовали переменную
     'Manager': 100,
     'Team lead': 1000,
     'Senior Developer': 5000,
-    'Developer': 44000
+    'Developer': 44001
 }
 
 def generate_employees():
